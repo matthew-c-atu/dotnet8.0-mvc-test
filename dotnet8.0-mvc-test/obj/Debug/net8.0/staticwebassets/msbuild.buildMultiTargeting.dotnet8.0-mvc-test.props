@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/dotnet8.0-mvc-test.props" />
+</Project>
